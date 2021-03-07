@@ -11,7 +11,7 @@ module Shift_Left_1(
     );
 
 /* Write your code HERE */
-
+assign data_o = data_i << 1;
 
 
 endmodule

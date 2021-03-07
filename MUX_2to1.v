@@ -13,7 +13,7 @@ module MUX_2to1(
                );
 			   
 /* Write your code HERE */
-
+assign data_o = (select_i==1) ? data1_i : data0_i;
 			   
 
 endmodule      
