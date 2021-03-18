@@ -1,5 +1,5 @@
 # RISC-V_simple_implementation
-This series contain basic concepts of CPU architecture, function unit(relation of ALU and Adder), and a simple simulation and of verilog for RISC-V finally.
+This series contain basic concepts of CPU architecture, function unit(relation of ALU and Adder), and a simple simulation of verilog for RISC-V ISA finally.
 
 
 > Lab1
